@@ -145,3 +145,7 @@ img {
 header {
   margin: 8px;
 }
+
+nav {
+  border: 1px solid black;
+}
