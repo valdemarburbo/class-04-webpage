@@ -1,3 +1,4 @@
+/*
 let username = prompt("Please tell me your name.")
 
 let confirmation = confirm("So your name is " + username + "?")
@@ -13,3 +14,5 @@ function addition(a, b) {
 }
 
 addition(2, 5);
+
+*/
